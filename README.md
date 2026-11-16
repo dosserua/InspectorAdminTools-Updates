@@ -1,0 +1,2 @@
+# InspectorAdminTools-Updates
+Подписанные пакеты встроенного обновления InspectorAdminTools
